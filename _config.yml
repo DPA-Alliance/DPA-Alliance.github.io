@@ -10,7 +10,7 @@ email: ggnet2@ourcoms.kr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 social:
-  github: https://github.com/<username>
+  github: https://github.com/DPA-Consortium
   #facebook-official:
  
   #email: /contact/
