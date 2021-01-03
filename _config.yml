@@ -2,22 +2,20 @@
 #
 
 # Site settings
-title: Spectral
-description: |
+title: DPA-Consortium Business Page
+description: DPA-Consortium 비즈니스 페이지입니다. 디자인 소스에 대한 설명은 그대로 남겨놓았습니다. (이하 내용 참조)
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+owner: DPA-Consortium
+first_published: 2021 # if migrating another site, the year of your first publish
+email: ggnet2@ourcoms.kr
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: ""
 social:
-  twitter: https://twitter.com/<username>
   github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+ 
   #email: /contact/
   #flickr:
   #instagram:
