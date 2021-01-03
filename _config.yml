@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 social:
   github: https://github.com/<username>
-  facebook-official: https://facebook.com/<username>
+  #facebook-official:
  
   #email: /contact/
   #flickr:
