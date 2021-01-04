@@ -1,0 +1,12 @@
+nav:
+  - title: "Business Talents"
+    section: services
+
+  - title: "Dev Skills"
+    section: portfolio
+    
+  - title: "About Bosco"
+    section: timeline
+
+  - title: "Contact"
+    section: contact
