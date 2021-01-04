@@ -214,6 +214,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	section, article {
 		&.special {
 			text-align: center;
+			min-height:600px;
+			margin:auto;
 		}
 	}
 
