@@ -2,15 +2,15 @@
 #
 
 # Site settings
-title: DPA-Consortium Business Page
+title: DPA-Alliance Business Page
 description: YOUR BEST DATA BUSINESS PARTNER!
-owner: DPA-Consortium
+owner: DPA-Alliance
 first_published: 2021 # if migrating another site, the year of your first publish
 email: ggnet2@ourcoms.kr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 social:
-  github: https://github.com/DPA-Consortium/DPA-Consortium.github.io
+  github: https://github.com/DPA-Alliance/DPA-Alliance.github.io
   #facebook-official:
  
   #email: /contact/
