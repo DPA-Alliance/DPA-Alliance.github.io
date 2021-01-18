@@ -1839,3 +1839,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	.fa-github {
 	    font-size: 100px;
 	}
+
+	.icon img {
+		width:240px;
+	}
