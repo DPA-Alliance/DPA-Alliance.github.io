@@ -1,11 +1,11 @@
 nav:
-  - title: "얼라이언스 소개"
+  - title: "Alliance 소개"
     section: one
 
-  - title: "DPA솔루션의 도입 배경 "
+  - title: "DPA솔루션 도입 배경 "
     section: two
     
-  - title: "얼라이언스 참여 업체 소개"
+  - title: "Alliance 참여 업체 소개"
     section: three
 
   - title: "Contact"
